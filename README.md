@@ -1,4 +1,4 @@
-# Olá! Eu sou o Filermo Eduardo 👋
+# Olá! Eu sou o Filermo👋
 
 Estudante de **Engenharia de Software** e **Estagiário de TI / Soluções de IA** na Positivo S+.
 Foco em back-end e inteligência artificial aplicada.

@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Filermo Eduardo 👋
 
-<!--
-**FilermoEduardo/FilermoEduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software** e **Estagiário de TI / Soluções de IA** na Positivo S+.
+Foco em back-end e inteligência artificial aplicada.
 
-Here are some ideas to get you started:
+- 🎓 Engenharia de Software na UCB — Universidade Católica de Brasília (formação prevista: 06/2027)
+- 💼 Estagiário de TI / Soluções de IA na **Positivo S+**
+- 💻 Trabalho com IA generativa, LLMs, chatbots e prompt engineering
+- 🗣️ Português e Espanhol (fluente) · Inglês (intermediário)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+`Python` `IA Generativa` `LLM` `Prompt Engineering` `Chatbots`
+`Java` `Spring Boot` `JMeter` `SQL` `HTML` `Excel`
+
+### 📫 Contato
+📧 filermoeduardo25@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/filermo-tovar-685890290/)
